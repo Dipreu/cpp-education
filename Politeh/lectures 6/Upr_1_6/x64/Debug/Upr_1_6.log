@@ -1,0 +1,6 @@
+﻿  IntegerArray.cpp
+C:\My project\Politeh\Upr_1_6\IntegerArray.cpp(47,33): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\My project\Politeh\Upr_1_6\IntegerArray.cpp(59,33): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Upr_1.cpp
+  Создание кода...
+  Upr_1_6.vcxproj -> C:\My project\Politeh\Upr_1_6\x64\Debug\Upr_1_6.exe

@@ -1,0 +1,3 @@
+﻿  Upr_3.cpp
+Upr_3_b.obj : error LNK2005: main уже определен в Upr_3.obj
+C:\My project\Politeh\Upr_3_5\x64\Debug\Upr_3_5.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
